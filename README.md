@@ -13,7 +13,7 @@ Sistemas Programables
 
 Docente: Rene Solis Reyes
 
-Titulo: 3.2 Pico W Webserver
+Titulo: 3.4 NODE-Red Dashboard
 
 Equipo:  
 Argueta Garcia Osman  
